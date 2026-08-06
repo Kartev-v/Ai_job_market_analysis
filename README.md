@@ -1,0 +1,2 @@
+The AI Job Market Intelligence Platform is a cloud-based data engineering project that analyzes AI job market data using Microsoft Azure. It automates data ingestion, cleaning, and processing with Azure Data Factory and Azure Databricks, stores data in Azure SQL Database, and creates interactive Power BI dashboards to visualize hiring trends, salaries, and in-demand skills.
+youtube link-https://www.youtube.com/watch?v=wxQ2WDBs3As
